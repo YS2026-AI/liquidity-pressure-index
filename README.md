@@ -80,4 +80,4 @@ python liquidity_pressure_index.py
 
 ---
 
-*Last updated: 2026-06-22 03:46 UTC*
+*Last updated: 2026-06-23 02:50 UTC*
